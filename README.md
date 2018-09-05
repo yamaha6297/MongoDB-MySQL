@@ -6,3 +6,8 @@ Los scripts escritos en este repositorio estan destinados a relizar operaciones 
 
 Los scripts testMySQL.py y testMongo.py se encargan de crear una base de datos denominada 'test', y una tabla (colleccion en MongoDB) con los atributos 'id', 'nick' y 'age'. Se realizan 10 iteraciones de INSERTs con 1.000.000 de inserciones de datos aleatorios.
 
+# Scripts adicionales
+
+avgFun.py
+    Posee una funcion denominada 'avg' la cual recibe un vector de datos en formato 'timedelta', retornando como resultado el valor       
+    promedio de los valores almacenados en el mismo.
