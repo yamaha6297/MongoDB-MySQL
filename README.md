@@ -9,5 +9,4 @@ Los scripts testMySQL.py y testMongo.py se encargan de crear una base de datos d
 # Scripts adicionales
 
 avgFun.py
-    Posee una funcion denominada 'avg' la cual recibe un vector de datos en formato 'timedelta', retornando como resultado el valor       
-    promedio de los valores almacenados en el mismo.
+    Posee una funcion denominada 'avg' la cual recibe un vector de datos en formato 'timedelta', retornando como resultado el valor promedio de los valores almacenados en el mismo.
