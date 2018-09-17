@@ -10,11 +10,11 @@ Los scripts testMySQL.py y testMongo.py se encargan de crear una base de datos d
 
 Los scripts queryMySQL.py y queryMongoDB.py realizan consultas a MySQL y MongooDB respectivamente. Se realizan cinco (5) consultas diferentes, realizando 10 iteraciones de cada una de las mismas. Los datos obtenidos en cada consulta son visualizados en consola y al finalizar el script, se presenta el resultado del tiempo promedio para cada consulta.
 
-    # Query 1: Todos los campos de las entidades donde el campo "age" = 25.
-    # Query 2: Todos los campos de las entidades donde el campo "age" tenga valores entre 35 y 45.
-    # Query 3: La cantidad de entidades donde su campo "age" tenga valores entre 20 y 60
-    # Query 4: La cantidad de entidades donde su campo "nick" contenga la expresion "Vv".
-    # Query 5: Todos los campos de las entidades donde el campo "nick" contenga la expresio "Vv" y ordenados con respecto al campo "age" de manera descendente.
+    # Query 1-1: Todos los campos de las entidades donde el campo "age" = 25.
+    # Query 1-2: Todos los campos de las entidades donde el campo "age" tenga valores entre 35 y 45.
+    # Query 1-3: La cantidad de entidades donde su campo "age" tenga valores entre 20 y 60
+    # Query 1-4: La cantidad de entidades donde su campo "nick" contenga la expresion "Vv".
+    # Query 1-5: Todos los campos de las entidades donde el campo "nick" contenga la expresio "Vv" y ordenados con respecto al campo "age" de manera descendente.
 
 # Scripts adicionales
 
